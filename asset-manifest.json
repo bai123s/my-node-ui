@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/my-node-ui/static/css/main.a8d7aa39.css",
-    "main.js": "/my-node-ui/static/js/main.6120fe4d.js",
+    "main.js": "/my-node-ui/static/js/main.dd9a3446.js",
     "static/js/453.915d5f37.chunk.js": "/my-node-ui/static/js/453.915d5f37.chunk.js",
     "static/media/bookwordcloud.png": "/my-node-ui/static/media/bookwordcloud.e31a92d5d305b11f37bb.png",
     "static/media/cover10.png": "/my-node-ui/static/media/cover10.41e5aa7081bfa93b3935.png",
@@ -116,11 +116,11 @@
     "static/media/logic1.png": "/my-node-ui/static/media/logic1.a7b7434d38338cd168ec.png",
     "index.html": "/my-node-ui/index.html",
     "main.a8d7aa39.css.map": "/my-node-ui/static/css/main.a8d7aa39.css.map",
-    "main.6120fe4d.js.map": "/my-node-ui/static/js/main.6120fe4d.js.map",
+    "main.dd9a3446.js.map": "/my-node-ui/static/js/main.dd9a3446.js.map",
     "453.915d5f37.chunk.js.map": "/my-node-ui/static/js/453.915d5f37.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a8d7aa39.css",
-    "static/js/main.6120fe4d.js"
+    "static/js/main.dd9a3446.js"
   ]
 }
