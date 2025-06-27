@@ -461,7 +461,7 @@ function DesktopBack({ children }) {
           <div style={{ position: 'relative', width: '1440px', color: '#fff', fontFamily: 'PingFang SC, Microsoft YaHei, STZhongsong, serif', fontSize: 24, marginLeft: 'auto', marginRight: 'auto' }}>
           {/* 顶部主标题描述 */}
             <div style={{ width: '1125px', height: '34px', marginTop: '90px', marginLeft: '164px' }}>
-            今年21岁，有着11年"女频文学"阅读爱好的严茜发现：自己越来越"无书可读"。
+            今年21岁，有着11年"女频文学"阅读爱好的严茜发现：自己越来越""。
           </div>
 
             {/* Figma frame21 还原内容开始 */}
